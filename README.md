@@ -1,13 +1,14 @@
 # PDM Publish
 
+> [!CAUTION]
+> This repository is archived as a `publish` command was natively integrated into [pdm 2.0](https://github.com/pdm-project/pdm/commit/c1b7d312c9695da9c0203b36a6fb70138f61ea43).
+
 [![ci](https://github.com/branchv/pdm-publish/workflows/CI/badge.svg)](https://github.com/branchv/pdm-publish/actions/workflows/ci.yaml)
 [![pypi version](https://img.shields.io/pypi/v/pdm-publish.svg)](https://pypi.org/project/pdm-publish/)
 [![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 
 A PDM plugin to publish to PyPI
-
-> NOTE: Consider if you need this over using [twine](https://twine.readthedocs.io/) directly
 
 ## Installation
 
