@@ -1,6 +1,6 @@
 # PDM Publish
 
-[![ci](https://github.com/branchvincent/pdm-publish/workflows/CI/badge.svg)](https://github.com/branchvincent/pdm-publish/actions/workflows/ci.yaml)
+[![ci](https://github.com/branchv/pdm-publish/workflows/CI/badge.svg)](https://github.com/branchv/pdm-publish/actions/workflows/ci.yaml)
 [![pypi version](https://img.shields.io/pypi/v/pdm-publish.svg)](https://pypi.org/project/pdm-publish/)
 [![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
@@ -99,5 +99,5 @@ Options:
 
 ## Links
 
-- [Changelog](https://github.com/branchvincent/pdm-publish/releases)
+- [Changelog](https://github.com/branchv/pdm-publish/releases)
 - [Contributing](CONTRIBUTING.md)
